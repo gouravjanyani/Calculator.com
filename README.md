@@ -14,6 +14,10 @@
 
 ![Calculator_com_-_Google_Chrome_2023-01-09_15-20-39_AdobeExpress](https://user-images.githubusercontent.com/72181657/211282146-4850f413-13ef-49e3-97f8-d577a1000a59.gif)
 
+![Calculator_com_-_Google_Chrome_2023-01-09_15-20-39_AdobeExpress (3)](https://user-images.githubusercontent.com/72181657/211484642-cdc18020-a918-467f-a222-fecbbbe03451.gif)
+
+
+
 ## Admin Sign In
 
 ![Calculator_com_-_Google_Chrome_2023-01-09_15-20-39_AdobeExpress (1)](https://user-images.githubusercontent.com/72181657/211282441-f85dd9f8-c889-4a7d-a7ea-41e800ee9b2e.gif)
