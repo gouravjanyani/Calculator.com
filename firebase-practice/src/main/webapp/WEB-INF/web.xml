@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://xmlns.jcp.org/xml/ns/javaee" xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_3_1.xsd" id="WebApp_ID" version="3.1">
+  <display-name>firebase-practice</display-name>
+  <welcome-file-list>
+  	<welcome-file>Home.html</welcome-file>
+    <welcome-file>index.html</welcome-file>
+  </welcome-file-list>
+  
+<!--	This is servlet mapping code.....to map the url to the code  
+ <servlet>
+  <servlet-name>AdminServlet</servlet-name>
+  <servlet-class>AdminServlet</servlet-class>
+  </servlet>
+  
+  <servlet-mapping>
+  <servlet-name>AdminServlet</servlet-name>
+  <url-pattern>/AdminServlet</url-pattern>
+  </servlet-mapping> -->
+  
+ <!-- 8888888888888888888888888888888888888888888888888888888888888888888888888888 --> 
+  
+ <!--  ServletConfig & ServletContext
+ 		We use these 2 to get the intial values for the servlet or for the application. Ex:- to specify the file path.
+ 		They both are interfaces.
+ -->
+  
+<!--	put in web.xml 
+  <context-param>
+  	<param-name>Phone</param-name>
+  	<param-value>Samsung</param-value>
+  </context-param> -->
+  
+<!--   put in servlet
+ We can get it's output: Hi Samsung
+
+		PrintWriter out = response.getWriter();
+		out.print("Hi ");
+		
+		ServletContext ctx = getServletContext();
+		String str = ctx.getInitParameter("Phone");
+		out.print(str);
+ -->
+</web-app>
