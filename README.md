@@ -1,5 +1,9 @@
 # Calculator.com
 
+Calculator.com is an MVC-based web application that has an Income Tax
+calculator as a product. The application also has an Authentication,
+Validation, and AJAX-based search system.
+
 # Home
 
 ![Calculator_com_-_Google_Chrome_2023-01-09_12-56-04_AdobeExpress](https://user-images.githubusercontent.com/72181657/211275944-b530ca24-6fd4-45e9-b61b-3dfbf3cca8ec.gif)
